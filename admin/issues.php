@@ -65,7 +65,6 @@ if (isset($_SESSION['email'])) {
 								}
 								echo "</table>";
 								echo "</div>";
-
 							}
 
 							?>
@@ -79,7 +78,7 @@ if (isset($_SESSION['email'])) {
 		<!--footer section start-->
 		<?php
 		include 'footer.php'
-			?>
+		?>
 		<!--footer section end-->
 	</section>
 

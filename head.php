@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="keywords" content="social issues,legal issues," />
 	<script type="application/x-javascript">
-		addEventListener("load", function () {
+		addEventListener("load", function() {
 			setTimeout(hideURLbar, 0);
 		}, false);
 
